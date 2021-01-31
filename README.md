@@ -1,4 +1,4 @@
-# CD-Renewal-Classifier
+## CD-Renewal-Classifier
 Classification Model that predicts if a CD would be renewed or not.
 
 # Install
