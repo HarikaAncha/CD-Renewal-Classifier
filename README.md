@@ -4,7 +4,7 @@ Classification Model that predicts if a CD would be renewed or not.
 ## Install
 This project requires Python 3 and the following Python libraries installed:
 
--NumPy
+- NumPy
 - Pandas
 - scikit-learn
 - Seaborn
@@ -23,7 +23,9 @@ Let's start with loading all the third-party libraries (you can also requirement
 
 ## Contents 
 1  Exploratory Data Analysis
+
 1.1  Understanding Data
+
 - 1.2  Identifying Missing Values
 - 1.3  Categorical Variables
 - 1.4  Numerical Data Analysis
