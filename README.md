@@ -22,6 +22,7 @@ Code is provided in the model.ipynb notebook file. You will also be required to 
 Let's start with loading all the third-party libraries (you can also requirements.txt) that we are going to use and the data set itself
 
 ## Contents 
+* TOC {:toc}
 1  Exploratory Data Analysis
 
 1.1  Understanding Data
