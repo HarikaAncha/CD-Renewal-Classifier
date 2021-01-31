@@ -5,9 +5,9 @@ Classification Model that predicts if a CD would be renewed or not.
 This project requires Python 3 and the following Python libraries installed:
 
 -NumPy
--Pandas
--scikit-learn
--Seaborn
+- Pandas
+- scikit-learn
+- Seaborn
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
@@ -22,8 +22,8 @@ Code is provided in the model.ipynb notebook file. You will also be required to 
 Let's start with loading all the third-party libraries (you can also requirements.txt) that we are going to use and the data set itself
 
 ## Contents 
-- 1  Exploratory Data Analysis
-- 1.1  Understanding Data
+1  Exploratory Data Analysis
+1.1  Understanding Data
 - 1.2  Identifying Missing Values
 - 1.3  Categorical Variables
 - 1.4  Numerical Data Analysis
