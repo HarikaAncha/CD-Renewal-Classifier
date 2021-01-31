@@ -26,19 +26,34 @@ Let's start with loading all the third-party libraries (you can also requirement
 
 1.1  Understanding Data
 
-- 1.2  Identifying Missing Values
-- 1.3  Categorical Variables
-- 1.4  Numerical Data Analysis
-- 2  Feature Creation
-- 3  Feature Selection
-- 3.1  Label Encoding
-- 3.2  Feature Importance Calculation
-- 4  Model Development
-- 4.1  80-20 Train & Test Set
-- 4.2  70-30 Train & Test Set
-- 5  Validation
-- 6  Other Models
-- 6.1  Model 1: Logistic Regression
-- 6.2  Model 2 - SVM Classifier
-- 6.3  Model 3 - Balanced Dataset Model
-- 7  Future Improvement
+1.2  Identifying Missing Values
+
+1.3  Categorical Variables
+
+1.4  Numerical Data Analysis
+
+2  Feature Creation
+
+3  Feature Selection
+
+3.1  Label Encoding
+
+3.2  Feature Importance Calculation
+
+4  Model Development
+
+4.1  80-20 Train & Test Set
+
+4.2  70-30 Train & Test Set
+
+5  Validation
+
+6  Other Models
+
+6.1  Model 1: Logistic Regression
+
+6.2  Model 2 - SVM Classifier
+
+6.3  Model 3 - Balanced Dataset Model
+
+7  Future Improvement
