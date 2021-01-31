@@ -1,5 +1,5 @@
 # CD-Renewal-Classifier
-Classification Model that predicts if a CD would be renewed or not.
+Classification model that predicts if a CD would be renewed or not.
 
 ## Install
 This project requires Python 3 and the following Python libraries installed:
