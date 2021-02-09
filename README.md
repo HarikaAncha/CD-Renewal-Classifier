@@ -22,21 +22,14 @@ Code is provided in the model.ipynb notebook file. You will also be required to 
 Let's start with loading all the third-party libraries (you can also requirements.txt) that we are going to use and the data set itself
 
 ## Contents 
-- [1 Exploratory Data Analysis]
-  * [1.1 Understanding Data]
-  * [1.2 Identifying Missing Values]
-  * [1.3 Categorical Variables]
-  * [1.4 Numerical Data Analysis]
-- [2 Feature Creation]
-- [3 Feature Selection]
-  * [3.1 Label Encoding]
-  * [3.2 Feature Importance Calculation]
-- [4 Model Development]
-  * [4.1 80-20 Train & Test Set]
-  * [4.2 70-30 Train & Test Set]
-- [5 Validation]
-- [6 Other Models]
-  * [6.1 Model 1: Logistic Regression]
-  * [6.2 Model 2 - SVM Classifier]
-  * [6.3 Model 3 - Balanced Dataset Model]
-- [7 Future Improvement]
+- [1 Exploratory Data Analysis](#1-Exploratory Data Analysis)
+  * [1.1 Understanding Data](#11-Understanding Data)
+  * [1.2 Identifying Missing Values](#12-Identifying Missing Values)
+  * [1.3 Categorical Variables](#13-Categorical Variables)
+  * [1.4 Numerical Data Analysis](#14-Numerical Data Analysis)
+- [2 Feature Creation](#2-Feature Creation)
+- [3 Feature Selection](#3-Feature Selection)
+  * [3.1 Label Encoding](#31-Label Encoding)
+  * [3.2 Feature Importance Calculation](#32-Feature Importance Calculation)
+- [4 Model Development](#4-Model Development)
+  * [4.1 80-20 Train & Test Set](#41-80-20 Train & Test Set)
